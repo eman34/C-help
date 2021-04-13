@@ -333,7 +333,6 @@ const char * get_command(BYTE val){
 		default:
 			return "error";
 	}
-	
 }
 const char * get_storage_type(BYTE val){
 	switch (val){
